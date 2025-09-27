@@ -1,16 +1,23 @@
 # prac3
 
-A new Flutter project.
+Flutter приложение с базовой навигацией между экранами.
 
-## Getting Started
+## Функционал
 
-This project is a starting point for a Flutter application.
+- Главный экран
+- Экран профиля
+- Настройки
+- Галерея
+- Информация о приложении
 
-A few resources to get you started if this is your first Flutter project:
+## Запуск
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```bash
+flutter pub get
+flutter run
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Требования
+
+- Flutter SDK
+- Android Studio или VS Code с плагинами Flutter/Dart
